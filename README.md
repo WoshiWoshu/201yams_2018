@@ -1,5 +1,5 @@
 # 201yams_2018
-2nd year mathematics computer science mini project.
+2nd year mathematics computer science mini project written in C++.
 
 USAGE
 
